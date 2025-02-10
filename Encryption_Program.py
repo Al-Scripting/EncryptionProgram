@@ -1,6 +1,4 @@
 """
-Al Muqshith Shifan #100862739
-
 The purpose of this program is to encrypt a string given by the user using different cipher methods,
 Ciphers such as Caesar, Playfair, Substation, Product and Transposition
 This program then displays all the encrypted text with their respective methods used as well it will
